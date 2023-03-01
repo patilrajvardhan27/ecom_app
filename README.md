@@ -12,6 +12,8 @@ This project is a starting point for ecom app application using Firebase and use
 ![screen 2](1.2.jpg)
 ![screen 3](1.3.jpg)
 ![screen 4](1.4.jpg)
+![screen 4.1](3.1.jpg)
+![screen 4.2](3.2.jpg)
 ![screen 5](1.5.jpg)
 ![screen 6](1.6.jpg)
 ![screen 7](1.7.jpg)
