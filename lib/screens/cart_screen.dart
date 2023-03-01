@@ -99,6 +99,9 @@ class _OrderButtonState extends State<OrderButton> {
               });
               widget.cart.clear();
             },
+      style: ElevatedButton.styleFrom(
+        foregroundColor: Theme.of(context).primaryColor,
+      ),
     );
   }
 }

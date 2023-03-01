@@ -4,13 +4,23 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for ecom app application using Firebase and user authentication.
 
-A few resources to get you started if this is your first Flutter project:
+#photos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![screen 1](1.1.jpg)
+![screen 2](1.2.jpg)
+![screen 3](1.3.jpg)
+![screen 4](1.4.jpg)
+![screen 5](1.5.jpg)
+![screen 6](1.6.jpg)
+![screen 7](1.7.jpg)
+![screen 8](1.8.jpg)
+![screen 9](1.9.jpg)
+![screen 10](10.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#DataBase Images
+
+![screen](2.1.png)
+![screen](2.2.png)
+![screen](2.3.png)
